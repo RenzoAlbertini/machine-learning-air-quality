@@ -1,6 +1,6 @@
 # Air Quality Prediction and Classification using Machine Learning
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](images/decision_tree_model.pdf)
 
 End-to-end Machine Learning project focused on air quality prediction and classification using real-world environmental data collected across Taiwan.
 
